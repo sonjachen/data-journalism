@@ -1,5 +1,5 @@
 ### Welcome to my first repo!
-> *This is my readme.*
+> *This is my README.*
 
 #### My name is Sonja, and here are three facts about me: 
 * I am a **rising senior at BU**.
